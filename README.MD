@@ -1,4 +1,4 @@
-# MIDI-Chord Recognition via Bar-Level Modeling
+# MIDI Chord Recognition via Bar-Level Modeling
 This is the codebase for a rule-based MIDI chord recognition system based on dynamic programming.
 This codebase was used in several papers before, including:
 
