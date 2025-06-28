@@ -18,6 +18,18 @@ pip3 install -r requirements.txt
 python3 main.py ./example.mid 
 ```
 
+Example output:
+
+```
+0.000000	2.666640	N
+2.666640	5.333280	N
+5.333280	7.999920	C#:min
+7.999920	10.666560	A:maj9
+10.666560	13.333200	A:maj9
+13.333200	15.999840	D:maj6(9)
+...
+```
+
 ## Important Notice
 
 1. The algorithm assumes that the beats and downbeats of the input MIDI file (inferred from tempo change events by ``pretty_midi``) are correct. The algorithm uses both beat and downbeat locations to infer the chords.
