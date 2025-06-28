@@ -44,8 +44,8 @@ If you use this repo in your project, please use the following citation (bibtex)
   author       = {Junyan Jiang},
   title        = {{MIDI Chord Recognition via Bar-Level Modeling}},
   year         = {2025},
-  howpublished = {\url{https://github.com/music-x-lab/rule-midi-chord-recognition}},
-  url          = {https://github.com/music-x-lab/rule-midi-chord-recognition}
+  howpublished = {\url{https://github.com/music-x-lab/midi-chord-recognition}},
+  url          = {https://github.com/music-x-lab/midi-chord-recognition}
 }
 ```
 
